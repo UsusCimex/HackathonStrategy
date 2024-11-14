@@ -10,7 +10,7 @@
       <ProjectReference Include="..\..\Nsu.HackathonProblem.Contracts\Nsu.HackathonProblem.Contracts\Nsu.HackathonProblem.Contracts.csproj" />
       <ProjectReference Include="..\Nsu.HackathonProblem.Contracts\Nsu.HackathonProblem.Contracts\Nsu.HackathonProblem.Contracts.csproj" />
 	  
-	  <PackageReference Include="HungarianAlgorithm" Version="2.3.2" />
+      <PackageReference Include="HungarianAlgorithm" Version="2.3.2" />
     </ItemGroup>
 
 </Project>
