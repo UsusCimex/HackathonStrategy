@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\UsusCimex\\Desktop\\NSU\\repositories\\Hackathon\\Nsu.HackathonProblem.LaninTeamBuildingStrategy\\Nsu.HackathonProblem.LaninTeamBuildingStrategy.csproj": {}
+    "C:\\Users\\UsusCimex\\Desktop\\NSU\\repositories\\HackathonStrategy\\Nsu.HackathonProblem.LaninTeamBuildingStrategy\\Nsu.HackathonProblem.LaninTeamBuildingStrategy.csproj": {}
   },
   "projects": {
-    "C:\\Users\\UsusCimex\\Desktop\\NSU\\repositories\\Hackathon\\Nsu.HackathonProblem.Contracts\\Nsu.HackathonProblem.Contracts\\Nsu.HackathonProblem.Contracts.csproj": {
+    "C:\\Users\\UsusCimex\\Desktop\\NSU\\repositories\\HackathonStrategy\\Nsu.HackathonProblem.Contracts\\Nsu.HackathonProblem.Contracts\\Nsu.HackathonProblem.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\UsusCimex\\Desktop\\NSU\\repositories\\Hackathon\\Nsu.HackathonProblem.Contracts\\Nsu.HackathonProblem.Contracts\\Nsu.HackathonProblem.Contracts.csproj",
+        "projectUniqueName": "C:\\Users\\UsusCimex\\Desktop\\NSU\\repositories\\HackathonStrategy\\Nsu.HackathonProblem.Contracts\\Nsu.HackathonProblem.Contracts\\Nsu.HackathonProblem.Contracts.csproj",
         "projectName": "Nsu.HackathonProblem.Contracts",
-        "projectPath": "C:\\Users\\UsusCimex\\Desktop\\NSU\\repositories\\Hackathon\\Nsu.HackathonProblem.Contracts\\Nsu.HackathonProblem.Contracts\\Nsu.HackathonProblem.Contracts.csproj",
+        "projectPath": "C:\\Users\\UsusCimex\\Desktop\\NSU\\repositories\\HackathonStrategy\\Nsu.HackathonProblem.Contracts\\Nsu.HackathonProblem.Contracts\\Nsu.HackathonProblem.Contracts.csproj",
         "packagesPath": "C:\\Users\\UsusCimex\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\UsusCimex\\Desktop\\NSU\\repositories\\Hackathon\\Nsu.HackathonProblem.Contracts\\Nsu.HackathonProblem.Contracts\\obj\\",
+        "outputPath": "C:\\Users\\UsusCimex\\Desktop\\NSU\\repositories\\HackathonStrategy\\Nsu.HackathonProblem.Contracts\\Nsu.HackathonProblem.Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\UsusCimex\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -62,14 +62,14 @@
         }
       }
     },
-    "C:\\Users\\UsusCimex\\Desktop\\NSU\\repositories\\Hackathon\\Nsu.HackathonProblem.LaninTeamBuildingStrategy\\Nsu.HackathonProblem.LaninTeamBuildingStrategy.csproj": {
+    "C:\\Users\\UsusCimex\\Desktop\\NSU\\repositories\\HackathonStrategy\\Nsu.HackathonProblem.LaninTeamBuildingStrategy\\Nsu.HackathonProblem.LaninTeamBuildingStrategy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\UsusCimex\\Desktop\\NSU\\repositories\\Hackathon\\Nsu.HackathonProblem.LaninTeamBuildingStrategy\\Nsu.HackathonProblem.LaninTeamBuildingStrategy.csproj",
+        "projectUniqueName": "C:\\Users\\UsusCimex\\Desktop\\NSU\\repositories\\HackathonStrategy\\Nsu.HackathonProblem.LaninTeamBuildingStrategy\\Nsu.HackathonProblem.LaninTeamBuildingStrategy.csproj",
         "projectName": "Nsu.HackathonProblem.LaninTeamBuildingStrategy",
-        "projectPath": "C:\\Users\\UsusCimex\\Desktop\\NSU\\repositories\\Hackathon\\Nsu.HackathonProblem.LaninTeamBuildingStrategy\\Nsu.HackathonProblem.LaninTeamBuildingStrategy.csproj",
+        "projectPath": "C:\\Users\\UsusCimex\\Desktop\\NSU\\repositories\\HackathonStrategy\\Nsu.HackathonProblem.LaninTeamBuildingStrategy\\Nsu.HackathonProblem.LaninTeamBuildingStrategy.csproj",
         "packagesPath": "C:\\Users\\UsusCimex\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\UsusCimex\\Desktop\\NSU\\repositories\\Hackathon\\Nsu.HackathonProblem.LaninTeamBuildingStrategy\\obj\\",
+        "outputPath": "C:\\Users\\UsusCimex\\Desktop\\NSU\\repositories\\HackathonStrategy\\Nsu.HackathonProblem.LaninTeamBuildingStrategy\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\UsusCimex\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -84,8 +84,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\UsusCimex\\Desktop\\NSU\\repositories\\Hackathon\\Nsu.HackathonProblem.Contracts\\Nsu.HackathonProblem.Contracts\\Nsu.HackathonProblem.Contracts.csproj": {
-                "projectPath": "C:\\Users\\UsusCimex\\Desktop\\NSU\\repositories\\Hackathon\\Nsu.HackathonProblem.Contracts\\Nsu.HackathonProblem.Contracts\\Nsu.HackathonProblem.Contracts.csproj"
+              "C:\\Users\\UsusCimex\\Desktop\\NSU\\repositories\\HackathonStrategy\\Nsu.HackathonProblem.Contracts\\Nsu.HackathonProblem.Contracts\\Nsu.HackathonProblem.Contracts.csproj": {
+                "projectPath": "C:\\Users\\UsusCimex\\Desktop\\NSU\\repositories\\HackathonStrategy\\Nsu.HackathonProblem.Contracts\\Nsu.HackathonProblem.Contracts\\Nsu.HackathonProblem.Contracts.csproj"
               }
             }
           }

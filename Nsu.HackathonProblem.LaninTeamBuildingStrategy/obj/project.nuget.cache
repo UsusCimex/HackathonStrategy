@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "734f7iGZsUw=",
+  "dgSpecHash": "uuHinl7CceI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\UsusCimex\\Desktop\\NSU\\repositories\\Hackathon\\Nsu.HackathonProblem.LaninTeamBuildingStrategy\\Nsu.HackathonProblem.LaninTeamBuildingStrategy.csproj",
+  "projectFilePath": "C:\\Users\\UsusCimex\\Desktop\\NSU\\repositories\\HackathonStrategy\\Nsu.HackathonProblem.LaninTeamBuildingStrategy\\Nsu.HackathonProblem.LaninTeamBuildingStrategy.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\UsusCimex\\.nuget\\packages\\hungarianalgorithm\\2.3.2\\hungarianalgorithm.2.3.2.nupkg.sha512"
   ],
